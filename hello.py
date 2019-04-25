@@ -3,7 +3,7 @@ print("hello world")
 print("你好")
 
 import random
-# print random.randint(1,100)
+# print random.randint(1,10下
 
-#第一阶段存盘
+# change local repo
 
